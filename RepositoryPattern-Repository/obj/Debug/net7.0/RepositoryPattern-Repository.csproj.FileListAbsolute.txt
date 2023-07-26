@@ -1,0 +1,17 @@
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Repository\bin\Debug\net7.0\RepositoryPattern-Repository.deps.json
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Repository\bin\Debug\net7.0\RepositoryPattern-Repository.runtimeconfig.json
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Repository\bin\Debug\net7.0\RepositoryPattern-Repository.dll
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Repository\bin\Debug\net7.0\RepositoryPattern-Repository.pdb
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Repository\bin\Debug\net7.0\ReposittoryPattern-Models.dll
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Repository\bin\Debug\net7.0\ReposittoryPattern-Models.pdb
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Repository\obj\Debug\net7.0\RepositoryPattern-Repository.csproj.AssemblyReference.cache
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Repository\obj\Debug\net7.0\RepositoryPattern-Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Repository\obj\Debug\net7.0\RepositoryPattern-Repository.AssemblyInfoInputs.cache
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Repository\obj\Debug\net7.0\RepositoryPattern-Repository.AssemblyInfo.cs
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Repository\obj\Debug\net7.0\RepositoryPattern-Repository.csproj.CoreCompileInputs.cache
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Repository\obj\Debug\net7.0\RepositoryPattern-Repository.csproj.CopyComplete
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Repository\obj\Debug\net7.0\RepositoryPattern-Repository.dll
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Repository\obj\Debug\net7.0\refint\RepositoryPattern-Repository.dll
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Repository\obj\Debug\net7.0\RepositoryPattern-Repository.pdb
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Repository\obj\Debug\net7.0\RepositoryPattern-Repository.genruntimeconfig.cache
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Repository\obj\Debug\net7.0\ref\RepositoryPattern-Repository.dll
