@@ -1,0 +1,12 @@
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Utilities\bin\Debug\net7.0\RepositoryPattern-Utilities.deps.json
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Utilities\bin\Debug\net7.0\RepositoryPattern-Utilities.dll
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Utilities\bin\Debug\net7.0\RepositoryPattern-Utilities.pdb
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Utilities\obj\Debug\net7.0\RepositoryPattern-Utilities.csproj.AssemblyReference.cache
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Utilities\obj\Debug\net7.0\RepositoryPattern-Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Utilities\obj\Debug\net7.0\RepositoryPattern-Utilities.AssemblyInfoInputs.cache
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Utilities\obj\Debug\net7.0\RepositoryPattern-Utilities.AssemblyInfo.cs
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Utilities\obj\Debug\net7.0\RepositoryPattern-Utilities.csproj.CoreCompileInputs.cache
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Utilities\obj\Debug\net7.0\RepositoryPattern-Utilities.dll
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Utilities\obj\Debug\net7.0\refint\RepositoryPattern-Utilities.dll
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Utilities\obj\Debug\net7.0\RepositoryPattern-Utilities.pdb
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Utilities\obj\Debug\net7.0\ref\RepositoryPattern-Utilities.dll

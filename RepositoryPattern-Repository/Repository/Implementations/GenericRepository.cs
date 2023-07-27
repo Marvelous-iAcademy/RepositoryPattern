@@ -27,5 +27,9 @@ namespace RepositoryPattern_Repository.Repository.Implementations
         {
             _dbSet.RemoveRange(entities);
         }
+        public void Delete(T entity)
+        {
+            _dbSet.Remove(entity);
+        }
     }
 }

@@ -1,0 +1,12 @@
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Core\bin\Debug\net7.0\RepositoryPattern-Core.deps.json
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Core\bin\Debug\net7.0\RepositoryPattern-Core.dll
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Core\bin\Debug\net7.0\RepositoryPattern-Core.pdb
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Core\obj\Debug\net7.0\RepositoryPattern-Core.csproj.AssemblyReference.cache
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Core\obj\Debug\net7.0\RepositoryPattern-Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Core\obj\Debug\net7.0\RepositoryPattern-Core.AssemblyInfoInputs.cache
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Core\obj\Debug\net7.0\RepositoryPattern-Core.AssemblyInfo.cs
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Core\obj\Debug\net7.0\RepositoryPattern-Core.csproj.CoreCompileInputs.cache
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Core\obj\Debug\net7.0\RepositoryPattern-Core.dll
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Core\obj\Debug\net7.0\refint\RepositoryPattern-Core.dll
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Core\obj\Debug\net7.0\RepositoryPattern-Core.pdb
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\RepositoryPattern\RepositoryPattern-Core\obj\Debug\net7.0\ref\RepositoryPattern-Core.dll
