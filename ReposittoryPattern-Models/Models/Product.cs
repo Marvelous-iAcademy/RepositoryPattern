@@ -14,12 +14,12 @@ namespace ReposittoryPattern_Models.Models
 
         public ProductCategories ProductCategories { get; set; }
 
-       /* public string ProductCategoriesDesc 
-        { 
-            set 
-            { 
-                ProductCategories.ToString(); 
-            } 
-        }*/
+        public string ProductCategoriesDesc
+        {
+            set
+            {
+                ProductCategories.ToString();
+            }
+        }
     }
 }
