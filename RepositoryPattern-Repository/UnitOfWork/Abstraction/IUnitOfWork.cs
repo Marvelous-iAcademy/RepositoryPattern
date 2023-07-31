@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace RepositoryPattern_Repository.UnitOfWork.Abstraction
 {
-    internal interface IUnitOfWork
+    public interface IUnitOfWork
     {
+        Task Save();
+        void Dispose();
     }
 }

@@ -26,11 +26,11 @@ namespace RepositoryPattern_Repository.Repository.Implementations
             Customer customer = await customers.FindAsync(id);
             return customer;
         }
-        public IQueryable<Customer> GetAllCustomer()
+       /* public IQueryable<Customer> GetAllProductsByCustomerId()
         {
             IEnumerable<Customer> getAllCustomer = customers.Include(x => x.Products);
             return customers;
-        } 
+        } */
         // Reminder: Querying an entity through another entity that shares a relationship.
     }
 }
